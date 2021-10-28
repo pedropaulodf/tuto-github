@@ -1,1 +1,1 @@
-let teste = "Teste do git v2";
+let teste = "Teste do git v2 v3";
